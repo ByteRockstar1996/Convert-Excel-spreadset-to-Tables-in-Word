@@ -6,3 +6,6 @@ It will take the heading from the excel spreadsheet and then create an individua
 
 Simply run in a command prompt using 'python 'Excel to word.py' [Excel File]'
 
+pip install python-docx
+
+pip install xlsxwriter
